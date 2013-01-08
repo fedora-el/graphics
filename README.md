@@ -1,7 +1,7 @@
 Fedora Graphics
 ===============
 
-[Fedora][fedora-org] graphics maintained by the [Fedora Greek Team][fedora-el].
+[Fedora][fedora-org] promotional graphics maintained by the [Fedora Greek Team][fedora-el].
 
 
 [fedora-org]: http://fedoraproject.org/
